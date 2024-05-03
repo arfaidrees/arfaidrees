@@ -13,7 +13,7 @@ Discover seamless navigation and enhanced travel experiences with our innovative
 - GPS
 - Google Maps
 - State Management
-- 
+  
 **Link:** [Project 1 Repository]([link-to-repository](https://github.com/arfaidrees/Frangoz-app-master))
 
 
