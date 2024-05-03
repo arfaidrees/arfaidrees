@@ -1,9 +1,6 @@
-<h1 align="center" Arfa Idrees GitHub Portfolio</h1> 
+<h1 align="center">Arfa Idrees GitHub Portfolio</h1>
 
-
-# 
-
-Welcome to my GitHub repository! I am a passionate Flutter and Android developer with a keen interest in creating engaging and innovative mobile applications. 
+Welcome to my GitHub repository! I am a passionate Flutter with a keen interest in creating engaging and innovative mobile applications. 
 
 ## Projects
 
@@ -15,10 +12,8 @@ Discover seamless navigation and enhanced travel experiences with our innovative
 - Places Api
 - GPS
 - Google Maps
-- State Management 
-
-![Project 1 Screenshot](/path/to/screenshot)
-
+- State Management
+- 
 **Link:** [Project 1 Repository]([link-to-repository](https://github.com/arfaidrees/Frangoz-app-master))
 
 
