@@ -1,15 +1,15 @@
 # Arfa Idrees GitHub Portfolio
 
-Welcome to my GitHub repository! I am a passionate Flutter and Android developer with a keen interest in creating engaging and innovative mobile applications. Here, you'll find a collection of my projects showcasing my skills and expertise in mobile development.
+Welcome to my GitHub repository! I am a passionate Flutter and Android developer with a keen interest in creating engaging and innovative mobile applications. 
 
 ## Projects
 
 ### Project 1: Optimized Routes
 
-Description: Briefly describe the project, its purpose, and the technologies used.
-
+Discover seamless navigation and enhanced travel experiences with our innovative Flutter app. Integrated with Google Maps, Getx state management, and Places API, it offers accurate routing, distance calculation, and personalized user interactions.The technology used for this:
 - Flutter
 - Dart
+- Places Api
 - GPS
 - Google Maps
 - State Management 
@@ -21,7 +21,7 @@ Description: Briefly describe the project, its purpose, and the technologies use
 
 ## Contact
 
-Feel free to reach out to me via email at [your-email@example.com](mailto:your-email@example.com) for any collaboration opportunities, project inquiries, or just to connect!
+Feel free to reach out to me via email at [arfahere@gmail.com](mailto:arfahere@gmail.com) for any collaboration opportunities, project inquiries, or just to connect!
 
 ## Connect with Me
 
