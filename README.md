@@ -3,13 +3,16 @@
 
 [![](https://visitcount.itsvg.in/api?id=arfaidrees&icon=0&color=8)](https://visitcount.itsvg.in)
 
-Welcome to my GitHub repository! I am a passionate Flutter with a keen interest in creating engaging and innovative mobile applications. 
+Welcome to my GitHub repository! I am a dedicated Flutter developer with a passion for crafting innovative and user-friendly mobile applications. With a strong foundation in Dart and Flutter, I strive to build intuitive apps that solve real-world problems. My primary focus is on creating seamless, cross-platform experiences that empower users and enhance their digital lives.
+
+✨ **What Drives Me?**
+- Crafting responsive and high-performance applications that make a real difference.
+- Embracing the latest technology trends to build modern, scalable solutions.
+- Collaborating with like-minded developers and designers to bring ideas to life.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/arfaidrees) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/923052113211)
-
-[![Arfaidrees's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arfaidrees&theme=github)](https://github.com/arfaidrees)
 
  
 # 💻 Tech Stack:
