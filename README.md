@@ -30,9 +30,6 @@ Welcome to my GitHub! I am a Senior Flutter Developer and Technical Consultant w
 
 Here are some of the key projects I have worked on:
 
-- **BAYT-AL-HAI Mobile App**  
-  Flutter-based app for automated invoice data capture integrated with **Microsoft Dynamics 365 Business Central**. Features OCR extraction and automated PO/SO creation.
-
 - **Dicetek-ESS-App**  
   Enterprise Employee Self-Service (ESS) application built with Flutter and integrated with **Dynamics 365 F&O**. Features include Dashboard, Leave Management, Payslips, Timesheets, Expenses, and Applicant modules. Cross-platform support for iOS, Android, Web, and Desktop.
 
