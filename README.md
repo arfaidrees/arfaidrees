@@ -48,10 +48,6 @@ Currently pursuing an **MS in Artificial Intelligence** at the University of Lah
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arfaidrees&show_icons=true&layout=compact" alt="Top Languages" />
-</p>
-
 ## 🤖 AI Engineering Projects
 
 Complete AI-powered applications, built end to end — frontend, backend, retrieval, and agent layers.
