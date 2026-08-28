@@ -1,52 +1,90 @@
 <h1 align="center">Hi, I'm Arfa Idrees</h1>
-<h3 align="center">Senior Flutter Developer & Technical Consultant</h3>
+<h3 align="center">Software Engineer | AI Application Engineer | Flutter Developer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=arfaidrees&icon=0&color=8)](https://visitcount.itsvg.in)
 
-Welcome to my GitHub! I am a Senior Flutter Developer and Technical Consultant with 2+ years of experience building **cross-platform applications** for iOS, Android, Web, and Desktop. I specialize in creating **enterprise-grade apps** integrated with **Microsoft Dynamics 365 (Business Central & Finance & Operations)** and other backend systems.
+Welcome to my GitHub. I'm a **Software Engineer** with 3 years of professional experience building production **cross-platform applications** for iOS, Android, Web, and Desktop, and I've extended that foundation into **AI application engineering**.
 
-✨ **What Drives Me?**
-- Building **scalable and high-performance applications** with Flutter.
-- Developing seamless **frontend-backend integrations** using REST APIs.
-- Embracing **cross-platform solutions** that work on iOS, Android, Web, and Desktop.
-- Continuously learning and implementing **modern technologies** to deliver robust solutions.
+Day to day I build **enterprise-grade software** integrated with **Microsoft Dynamics 365 (Finance & Operations and Business Central)** at a Microsoft Gold Partner. Alongside that, I build complete **LLM-powered applications** end to end — retrieval pipelines, agent architectures, and the backends that keep AI reasoning separate from business logic.
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+Currently pursuing an **MS in Artificial Intelligence** at the University of Lahore.
+
+✨ **What Drives Me**
+
+- Designing **AI application architecture** where the LLM interprets and the backend decides — deterministic tools, structured responses, grounded answers.
+- Building **scalable, high-performance applications** with Flutter across mobile, web, and desktop.
+- Developing clean **frontend–backend integrations** with REST APIs and FastAPI.
+- Delivering **enterprise ERP workflows** that real teams depend on in production.
+
+# 💻 Tech Stack
+
+**Languages**
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI Engineering**
+
+![Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1a7f37?style=for-the-badge&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6f42c1?style=for-the-badge&logoColor=white)
+![Function Calling](https://img.shields.io/badge/Function%20Calling-0b5394?style=for-the-badge&logoColor=white)
+
+**Frameworks & Backend**
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools**
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arfaidrees&show_icons=true&layout=compact" alt="Top Languages" />
 </p>
 
-## 🚀 Projects & Highlights
+## 🤖 AI Engineering Projects
 
-Here are some of the key projects I have worked on:
+Complete AI-powered applications, built end to end — frontend, backend, retrieval, and agent layers.
 
-- **Dicetek-ESS-App**  
-  Enterprise Employee Self-Service (ESS) application built with Flutter and integrated with **Dynamics 365 F&O**. Features include Dashboard, Leave Management, Payslips, Timesheets, Expenses, and Applicant modules. Cross-platform support for iOS, Android, Web, and Desktop.
+- **[AI Document Assistant](https://github.com/arfaidrees/gemini-ai-chatbot)** — `Flutter Web` `FastAPI` `Python` `Gemini API` `RAG`
+  Full-stack PDF question-answering application. Handles document ingestion, chunking, embedding generation, and semantic retrieval so every answer is grounded in the source material. Supports conversational memory and multi-document queries, with the Flutter Web client cleanly separated from a FastAPI service that owns retrieval and model invocation.
 
-- **Order Booking App - Courage ERP**  
-  Multi-brand order booking app with real-time tracking and ERP API integration. Built with Flutter for Android and Web.
+- **[Nexa — AI Sales & Customer Support Agent](https://github.com/arfaidrees/nexa-ai-agent)** — `Flutter` `FastAPI` `Python` `Gemini API` `Tool Calling` `RAG` `SQLite`
+  A reusable AI agent architecture for sales and support that can be re-pointed at a different business's knowledge base without rewriting the agent. Uses tool and function calling so the model triggers deterministic backend operations rather than generating business outcomes itself. Includes a RAG knowledge layer, structured responses, and a lead capture workflow.
 
-- **LiveTrack Web App**  
-  Real-time tracking solution embedded in Oracle APEX with live map markers and distance monitoring.
+## 🏢 Enterprise & Production Work
 
-- **Additional Flutter Apps**  
-  Projects including Frangoz Rider App, Zip Zap logistics app, and E-Kabaarkhana marketplace app.
+- **Dicetek ESS App**
+  Enterprise Employee Self-Service application built with Flutter and integrated with **Dynamics 365 F&O**. Employee modules include Dashboard, Leaves, Payslips, Timesheets, Expenses, Letters, Duty Resumption, Assets, Tasks, and Referrals, plus applicant-facing job portal, offer letter, and onboarding flows. Cross-platform across iOS, Android, Web, and Desktop.
+
+- **BAYT-AL-HAI**
+  Flutter application automating invoice data capture via OCR, integrated with **Dynamics 365 Business Central** APIs to automate purchase and sales order creation and financial data synchronisation.
+
+- **Order Booking App — Courage ERP**
+  Multi-brand order booking application operating across 24 cities in Pakistan, with GPS tracking, Google Maps, Firestore, and ERP API integration.
+
+- **LiveTrack Web App**
+  Real-time tracking solution embedded in Oracle APEX with live map markers, distance calculation, and a management oversight dashboard.
+
+- **Additional Flutter Applications**
+  Frangoz Rider App, Zip Zap logistics app, and E-Kabaarkhana recyclables marketplace.
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arfaidrees)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:arfaidrees@outlook.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Google-Chrome&logoColor=white)](https://arfa-idrees.web.app)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arfaidrees)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:arfaidrees@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Google-Chrome&logoColor=white)](https://arfa-idrees.web.app)
 
 ---
 
-Thank you for visiting my GitHub profile. I am always open to **collaboration** and **new opportunities** in Flutter, mobile, and cross-platform development!
+Thanks for visiting. I'm open to **collaboration** and **new opportunities** in AI application engineering, software engineering, and Flutter development — onsite, hybrid, or remote.
