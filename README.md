@@ -1,22 +1,18 @@
 <h1 align="center">Hi, I'm Arfa Idrees</h1>
 <h3 align="center">Software Engineer | AI Application Engineer | Flutter Developer</h3>
 
-[![](https://visitcount.itsvg.in/api?id=arfaidrees&icon=0&color=8)](https://visitcount.itsvg.in)
+I'm a **Software Engineer** with 3 years of professional experience building production **cross-platform applications** for iOS, Android, Web, and Desktop, and I've extended that foundation into **AI application engineering**.
 
-Welcome to my GitHub. I'm a **Software Engineer** with 3 years of professional experience building production **cross-platform applications** for iOS, Android, Web, and Desktop, and I've extended that foundation into **AI application engineering**.
+Day to day I build **enterprise-grade software** integrated with **Microsoft Dynamics 365 (Finance & Operations and Business Central)** at a Microsoft Gold Partner — including [Dicetek ESS](https://apps.apple.com/pk/app/dicetek-ess/id6755028542), a Flutter application live on the App Store and Google Play. Alongside that, I build complete **LLM-powered applications** end to end: retrieval pipelines, agent architectures, and the backends that keep AI reasoning separate from business logic.
 
-Day to day I build **enterprise-grade software** integrated with **Microsoft Dynamics 365 (Finance & Operations and Business Central)** at a Microsoft Gold Partner. Alongside that, I build complete **LLM-powered applications** end to end — retrieval pipelines, agent architectures, and the backends that keep AI reasoning separate from business logic.
+## What I Care About
 
-Currently pursuing an **MS in Artificial Intelligence** at the University of Lahore.
+- **AI application architecture** where the LLM interprets and the backend decides — deterministic tools, structured responses, grounded answers.
+- **Scalable, high-performance applications** with Flutter across mobile, web, and desktop.
+- Clean **frontend–backend integrations** with REST APIs and FastAPI.
+- **Enterprise ERP workflows** that real teams depend on in production.
 
-✨ **What Drives Me**
-
-- Designing **AI application architecture** where the LLM interprets and the backend decides — deterministic tools, structured responses, grounded answers.
-- Building **scalable, high-performance applications** with Flutter across mobile, web, and desktop.
-- Developing clean **frontend–backend integrations** with REST APIs and FastAPI.
-- Delivering **enterprise ERP workflows** that real teams depend on in production.
-
-# 💻 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -48,39 +44,35 @@ Currently pursuing an **MS in Artificial Intelligence** at the University of Lah
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🤖 AI Engineering Projects
+## AI Engineering Projects
 
-Complete AI-powered applications, built end to end — frontend, backend, retrieval, and agent layers.
+Complete AI-powered applications, built end to end — client, API, retrieval, and agent layers.
 
-- **[AI Document Assistant](https://github.com/arfaidrees/gemini-ai-chatbot)** — `Flutter Web` `FastAPI` `Python` `Gemini API` `RAG`
-  Full-stack PDF question-answering application. Handles document ingestion, chunking, embedding generation, and semantic retrieval so every answer is grounded in the source material. Supports conversational memory and multi-document queries, with the Flutter Web client cleanly separated from a FastAPI service that owns retrieval and model invocation.
+### [AI Document Assistant](https://github.com/arfaidrees/ai-document-assistant)
 
-- **[Nexa — AI Sales & Customer Support Agent](https://github.com/arfaidrees/nexa-ai-agent)** — `Flutter` `FastAPI` `Python` `Gemini API` `Tool Calling` `RAG` `SQLite`
-  A reusable AI agent architecture for sales and support that can be re-pointed at a different business's knowledge base without rewriting the agent. Uses tool and function calling so the model triggers deterministic backend operations rather than generating business outcomes itself. Includes a RAG knowledge layer, structured responses, and a lead capture workflow.
+`Flutter Web` `FastAPI` `Python` `Gemini API` `RAG`
 
-## 🏢 Enterprise & Production Work
+Full-stack PDF question-answering application. Handles document ingestion, chunking, embedding generation, and top-K semantic retrieval with similarity-threshold filtering, so every answer is grounded in the source material and cites filename and page. Supports conversational memory and multi-document sessions. The Flutter Web client never holds the API key — retrieval, prompt construction, and model invocation all sit behind a FastAPI boundary, so the AI layer is replaceable.
 
-- **Dicetek ESS App**
-  Enterprise Employee Self-Service application built with Flutter and integrated with **Dynamics 365 F&O**. Employee modules include Dashboard, Leaves, Payslips, Timesheets, Expenses, Letters, Duty Resumption, Assets, Tasks, and Referrals, plus applicant-facing job portal, offer letter, and onboarding flows. Cross-platform across iOS, Android, Web, and Desktop.
+### [Nexa — AI Sales & Customer Support Agent](https://github.com/arfaidrees/nexa-ai-agent)
 
-- **BAYT-AL-HAI**
-  Flutter application automating invoice data capture via OCR, integrated with **Dynamics 365 Business Central** APIs to automate purchase and sales order creation and financial data synchronisation.
+`Flutter` `FastAPI` `Python` `Gemini API` `Tool Calling` `RAG` `SQLite`
 
-- **Order Booking App — Courage ERP**
-  Multi-brand order booking application operating across 24 cities in Pakistan, with GPS tracking, Google Maps, Firestore, and ERP API integration.
+A reusable AI agent architecture for sales and support that can be re-pointed at a different business's catalog and knowledge base without rewriting the agent. Uses automatic tool and function calling so the model triggers deterministic Python operations rather than generating business outcomes itself. Includes a knowledge-retrieval layer that returns an explicit no-answer response when nothing relevant is found, validated lead capture persisted to SQLite, and a read-only admin dashboard. Backend and client are covered by offline tests that run without calling the model.
 
-- **LiveTrack Web App**
-  Real-time tracking solution embedded in Oracle APEX with live map markers, distance calculation, and a management oversight dashboard.
+## Enterprise & Production Work
 
-- **Additional Flutter Applications**
-  Frangoz Rider App, Zip Zap logistics app, and E-Kabaarkhana recyclables marketplace.
+**[Dicetek ESS](https://apps.apple.com/pk/app/dicetek-ess/id6755028542)** — Enterprise Employee Self-Service application built with Flutter and integrated with **Dynamics 365 F&O**, live on the App Store and Google Play. Employee modules include Dashboard, Leaves, Payslips, Timesheets, Expenses, Letters, Duty Resumption, Assets, Tasks, and Referrals, plus applicant-facing job portal, offer letter acceptance, and onboarding flows. Cross-platform across iOS, Android, Web, and Desktop.
 
-## 🌐 Connect with Me
+**Order Booking App — Courage ERP** — Multi-brand order booking application operating across 24 cities in Pakistan, with GPS tracking, Google Maps, Firestore, and ERP API integration.
+
+**LiveTrack Web App** — Real-time tracking solution embedded in Oracle APEX with live map markers, distance calculation, and a management oversight dashboard.
+
+**Additional Flutter Applications** — Frangoz Rider App, Zip Zap logistics app, and E-Kabaarkhana recyclables marketplace.
+
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arfaidrees)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:arfaidrees@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Google-Chrome&logoColor=white)](https://arfa-idrees.web.app)
 
----
-
-Thanks for visiting. I'm open to **collaboration** and **new opportunities** in AI application engineering, software engineering, and Flutter development — onsite, hybrid, or remote.
+Open to **collaboration** and **new opportunities** in AI application engineering, software engineering, and Flutter development — onsite, hybrid, or remote.
